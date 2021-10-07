@@ -1,3 +1,3 @@
 <?php
-print "Love is in the air "\n";
+print "Love is in the air!\n";
 ?>
